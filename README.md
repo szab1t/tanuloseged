@@ -1,1 +1,1 @@
-# tanuloseged
+# 📚 Intelligens Tanulósegéd 
