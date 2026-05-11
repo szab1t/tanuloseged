@@ -23,5 +23,16 @@ PDF fájlok elemzésére és összefoglalására szolgáló alkalmazás mesters�
 * **LangChain:** Szövegfeldolgozó keretrendszer.
 
 ## Használat
-```
 1. Klónozd a tárolót
+```
+git clone https://github.com/szab1t/tanuloseged.git
+```
+2. Telepítsd a szükséges könyvtárakat
+```
+pip install -r requirements.txt
+```
+3. Hozz létre egy .env filet a gyökérmappádban, és add meg az API kulcsodat
+4. Indítsd el az alkalmazást
+```
+streamlit run app.py
+```
