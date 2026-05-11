@@ -21,3 +21,7 @@ PDF fájlok elemzésére és összefoglalására szolgáló alkalmazás mesters�
 * **Groq Cloud:** Llama 3 nyelvi modell az elemzéshez.
 
 * **LangChain:** Szövegfeldolgozó keretrendszer.
+
+## Használat
+```
+1. Klónozd a tárolót
