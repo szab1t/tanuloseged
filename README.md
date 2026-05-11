@@ -14,10 +14,10 @@ PDF fájlok elemzésére és összefoglalására szolgáló alkalmazás mesters�
 * **Letöltés:** Az eredmények elmenthetők PDF formátumban.
 
 ## Alkalmazott technológiák
-**Python:** Alapprogramozási nyelv.
+* **Python:** Alapprogramozási nyelv.
 
-**Streamlit:** Webes felhasználói felület.
+* **Streamlit:** Webes felhasználói felület.
 
-**Groq Cloud:** Llama 3 nyelvi modell az elemzéshez.
+* **Groq Cloud:** Llama 3 nyelvi modell az elemzéshez.
 
-**LangChain:** Szövegfeldolgozó keretrendszer.
+* **LangChain:** Szövegfeldolgozó keretrendszer.
