@@ -24,11 +24,11 @@ PDF fájlok elemzésére és összefoglalására szolgáló alkalmazás mesters�
 
 ## Használat
 1. Klónozd a tárolót
-```bash
+```
 git clone https://github.com/szab1t/tanuloseged.git
 ```
 2. Telepítsd a szükséges könyvtárakat
-```bash
+```
 pip install -r requirements.txt
 ```
 3. Hozz létre egy .env filet a gyökérmappádban, és add meg az API kulcsodat
