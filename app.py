@@ -39,7 +39,7 @@ with st.sidebar: #oldalsav letrehozasa
     max_tokens = st.slider("Max Tokens", 500, 2000, 1000)
 
     st.markdown("---")
-    if st.button("🗑️ Eredmények törlése", use_container_width=True): #eredmenytorlo gomb
+    if st.button("🗑️ Elemzés törlése", use_container_width=True): #eredmenytorlo gomb
         st.session_state.result = ""
         st.rerun() 
 
