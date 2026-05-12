@@ -4,7 +4,6 @@ from dotenv import load_dotenv
 from langchain_groq import ChatGroq
 from PyPDF2 import PdfReader
 from fpdf import FPDF
-import io
 
 load_dotenv()
 
